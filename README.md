@@ -1,6 +1,9 @@
 # Soil Moisture Measurement
  Arduino Based Soil Moisture Measurement
 
+![Soil Moisture Project](https://i.imgur.com/xnCbyb2.jpg "Soil Moisture Project")
+
+
 ## Description:
 This project is a part of a Smart Farming Project where soil
 moisture level is very important for plant. In this project we use soil moisture
@@ -17,7 +20,7 @@ Arduino process the data and output the data with LCD Display.
 6. I2C LCD Adapter Module
 
 ## Diagram:
-![Circuit Diagram](https://i.imgur.com/LMmENCz.jpg "Circuit Diagram")
+![Circuit Diagram](https://i.imgur.com/xnCbyb2.jpg? "Circuit Diagram")
 
 ## Code
 
