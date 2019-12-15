@@ -1,2 +1,2 @@
-# Soil_Moisture_Measurement
+# Soil Moisture Measurement
  Arduino Based Soil Moisture Measurement
