@@ -70,3 +70,9 @@ void loop()
 - Expandable
 - It delivers the results immediately.
 - Offers accurate results.
+
+## Disadvantages:
+- Need some Technical Skills to Operate
+- Might be Costly
+- Mechanical Part so may be damage any time
+- Sensors provide less accuracy in sandy soils due to large particles.
