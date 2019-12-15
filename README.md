@@ -63,3 +63,10 @@ void loop()
   lcd.clear();
 }
 ```
+
+## Advantages:
+- Easy to use
+- Cost Effective
+- Expandable
+- It delivers the results immediately.
+- Offers accurate results.
