@@ -76,3 +76,14 @@ void loop()
 - Might be Costly
 - Mechanical Part so may be damage any time
 - Sensors provide less accuracy in sandy soils due to large particles.
+
+## Cost in BDT :
+| S.L   | Component          | Cost  |
+| ------|:-------------:| -----:|
+| 1|Arduino Uno (China) | 450 BDT |
+| 2|Soil Moisture Sensor|180 BDT |
+| 3|Jumper wires (generic)|    20 BDT|
+| 4|Breadboard (generic) X 2| 180 BDT |
+| 5| 16X2 LCD Display |350 BDT|
+| 6|I2C LCD Adapter Module|    180 BDT |
+||Total Cost = |1,340 BDT
