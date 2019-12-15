@@ -20,7 +20,7 @@ Arduino process the data and output the data with LCD Display.
 6. I2C LCD Adapter Module
 
 ## Diagram:
-![Circuit Diagram](https://i.imgur.com/xnCbyb2.jpg? "Circuit Diagram")
+![Circuit Diagram](https://i.imgur.com/LMmENCz.jpg "Circuit Diagram")
 
 ## Code
 
