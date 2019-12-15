@@ -15,3 +15,6 @@ Arduino process the data and output the data with LCD Display.
 4. Breadboard (generic)
 5. 16X2 LCD Display
 6. I2C LCD Adapter Module
+
+## Diagram:
+[logo]: https://i.imgur.com/LMmENCz.jpg "Circuit Diagram"
