@@ -87,3 +87,11 @@ void loop()
 | 5| 16X2 LCD Display |350 BDT|
 | 6|I2C LCD Adapter Module|    180 BDT |
 ||Total Cost = |1,340 BDT
+
+## Future Plan:
+This is a part of Smart Framing Project which is an IOT bases Project so in Future
+we add some Wi-Fi module that send Moisture level alert on web service and it
+send to our mobile. One mobile application which is control whole farming
+process with one click. We collect data from farm and analysis with machine
+learning algorithms. We also provide a data visualization on that data on real
+time so any one can easily access and take action on behave on data.
